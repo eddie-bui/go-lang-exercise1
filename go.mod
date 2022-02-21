@@ -1,4 +1,4 @@
-module github.com/eddie-bui/go-lang-exercise1
+module go-lang-exercise1
 
 go 1.16
 
